@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GBFelix777
-- 👀 I’m interested in medicine, Neuroscience ad Data Science
+- 👀 I’m interested in Medicine, Neuroscience ad Data Science
 - 🌱 I’m currently learning how to use Git
 
 <!---
